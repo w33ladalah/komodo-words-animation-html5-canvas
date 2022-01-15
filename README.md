@@ -1,6 +1,6 @@
 # Komodo Words Animation with HTML5 Canvas
 
-This is just a little experiment (in my free time and just for have fun) with HTML5 canvas to create "The Matrix"-like text effects but more colorful. The input text is a words inspired by someone nice called "Komodo" :) 
+This is just a little experiment (in my free time and just for have fun) with HTML5 canvas and javascript to create "The Matrix"-like text effects but more colorful. The input text is a words inspired by someone nice called "Komodo" :) 
 
 Demo: https://wongbiasa.co/komodo-golden-words.html
 
